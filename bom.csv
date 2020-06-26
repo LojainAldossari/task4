@@ -1,0 +1,5 @@
+Name,Quantity,Component
+"K1, K2",2," Relay SPDT"
+"M1",1," DC Motor"
+"U1",1," Arduino Uno R3"
+"BAT1, BAT2",2," 9V Battery"
